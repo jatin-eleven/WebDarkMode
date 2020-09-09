@@ -57,11 +57,11 @@ section h2
 }
 @media(max-width: 750px) and (min-width: 360px)
 {
-/* 	section
+	section
 	{
 		padding-left: 40px; 
 		padding-right: 40px;
-	} */
+	}
 	section p
 	{
 		font-size: 22px;
@@ -70,11 +70,9 @@ section h2
 	{
 		font-size: 27px;
 	}
-/* 	input[type="checkbox"]:before
+	input[type="checkbox"]:before
 	{	
 		padding: 15px 20px;
 		font-size: 18px;
-		left: 55px;
-		top: 1px;
-	} */
+	}
 }
