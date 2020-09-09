@@ -74,7 +74,7 @@ section h2
 	{	
 		padding: 15px 20px;
 		font-size: 18px;
-		position: relative;
+		position: absolute;
 		left: 85px;
 		top: 1px;
 	}
